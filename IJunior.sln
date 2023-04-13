@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_CSStart", "CSStart\1_CSSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Variables", "2_Variables\2_Variables.csproj", "{946638AF-E201-4CD0-9334-CC59AFFA9748}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_ArithmeticOperations", "3_ArithmeticOperations\3_ArithmeticOperations.csproj", "{D2A2A940-DF49-4433-A3D3-6C21D7066852}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{946638AF-E201-4CD0-9334-CC59AFFA9748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{946638AF-E201-4CD0-9334-CC59AFFA9748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{946638AF-E201-4CD0-9334-CC59AFFA9748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A2A940-DF49-4433-A3D3-6C21D7066852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A2A940-DF49-4433-A3D3-6C21D7066852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A2A940-DF49-4433-A3D3-6C21D7066852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A2A940-DF49-4433-A3D3-6C21D7066852}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
