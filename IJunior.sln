@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Concatenation", "5_Concat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Interpolation", "6_Interpolation\6_Interpolation.csproj", "{FBFF7F1D-ECCD-43E4-9F9F-3C8B39799C9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Conversion", "7_Conversion\7_Conversion.csproj", "{DDA6921A-32B7-4A02-B396-E08DA5AD78CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FBFF7F1D-ECCD-43E4-9F9F-3C8B39799C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBFF7F1D-ECCD-43E4-9F9F-3C8B39799C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBFF7F1D-ECCD-43E4-9F9F-3C8B39799C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA6921A-32B7-4A02-B396-E08DA5AD78CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA6921A-32B7-4A02-B396-E08DA5AD78CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA6921A-32B7-4A02-B396-E08DA5AD78CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA6921A-32B7-4A02-B396-E08DA5AD78CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
